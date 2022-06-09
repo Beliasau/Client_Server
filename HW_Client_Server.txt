@@ -1,0 +1,51 @@
+HW
+Client_Server
+1) Прочиать про клиент-серверную архитектуру
+2) Что ткое HTTP и HTTPS
+3) HTTP методы
+4) HTTP статус коды сервера
+5) Что такое ядро браузера 
+6) Какие браузеры какие ядра используют
+7) Что такое API
+8. Что такое ендпоинты
+9) URL (URI, URL, URN)
+10) Идемпотентные HTTP методы
+11) Безопасные HTTP методы
+12) Идентификация, Аутентификация, Авторизация
+13) Что такое IP
+14) Что такое октаты в DNS
+15) Что такое порт, сколько портов у Linux сервера
+16) Уровни OSI
+17) Хедеры http запросов
+
+=============================================================
+
+
+6) 
+
+	ядро Blink (от Google)
+1 Chromium
+2 Brave
+3 Chrome
+4 Comodo Dragon
+5 Microsoft Edge
+6 Epic Browser
+7 Opera
+8 SRWare Iron
+9 Яндекс.Браузер
+10 Амиго
+
+	на движке Gecko (Mozilla)
+1)Flock
+2)K-Meleon
+3)SeaMonkey
+4)Camino
+5)Mozilla Firefox
+6)Waterfox
+
+	Webkit (от Apple)
+Apple Safari
+
+
+
+	
