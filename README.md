@@ -1,1 +1,2 @@
-# Client_Server
+
+my homework on the course V.Ksendzov
