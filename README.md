@@ -1,2 +1,7 @@
+# Сlient-server architecture
 
-my homework on the course V.Ksendzov
+## here my homework on the course of Vadim Ksendzov
+
+### My Certificate
+
+![My Certificate]()
