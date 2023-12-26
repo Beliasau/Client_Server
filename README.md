@@ -4,4 +4,4 @@
 
 ### My Certificate
 
-![My Certificate]()
+![My Certificate](https://raw.githubusercontent.com/Beliasau/Client_Server/main/Aliaksandr%20Beliasau_CLS.png)
